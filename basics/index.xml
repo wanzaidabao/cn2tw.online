@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on 湾湾小灵通-二岸飛行筆記</title>
+    <link>//localhost:1314/basics/</link>
+    <description>Recent content in Basics on 湾湾小灵通-二岸飛行筆記</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1314/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>基础</title>
+      <link>//localhost:1314/basics/_index.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/basics/_index.zh/</guid>
+      <description>章节 1 基础 了解该 Hugo 主题的特点以及背后的核心概念。</description>
+    </item>
+  </channel>
+</rss>

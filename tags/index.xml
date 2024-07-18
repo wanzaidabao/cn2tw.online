@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 湾湾小灵通-二岸飛行筆記</title>
+    <link>//localhost:1314/tags/</link>
+    <description>Recent content in Tags on 湾湾小灵通-二岸飛行筆記</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 Nov 2018 08:41:44 +0100</lastBuildDate>
+    <atom:link href="//localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentation</title>
+      <link>//localhost:1314/tags/documentation/</link>
+      <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
+      <guid>//localhost:1314/tags/documentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>//localhost:1314/tags/tutorial/</link>
+      <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
+      <guid>//localhost:1314/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>台胞</title>
+      <link>//localhost:1314/tags/%E5%8F%B0%E8%83%9E/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      <guid>//localhost:1314/tags/%E5%8F%B0%E8%83%9E/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
