@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>交通出行 on 湾湾小灵通-二岸飛行筆記</title>
-    <link>//localhost:1314/03.transportation/</link>
+    <link>/03.transportation/</link>
     <description>Recent content in 交通出行 on 湾湾小灵通-二岸飛行筆記</description>
     <generator>Hugo</generator>
-    <language>en-US</language>
-    <atom:link href="//localhost:1314/03.transportation/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <atom:link href="/03.transportation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

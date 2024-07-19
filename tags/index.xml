@@ -2,31 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 湾湾小灵通-二岸飛行筆記</title>
-    <link>//localhost:1314/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on 湾湾小灵通-二岸飛行筆記</description>
     <generator>Hugo</generator>
-    <language>en-US</language>
+    <language>zh-CN</language>
     <lastBuildDate>Thu, 29 Nov 2018 08:41:44 +0100</lastBuildDate>
-    <atom:link href="//localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>//localhost:1314/tags/documentation/</link>
+      <link>/tags/documentation/</link>
       <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
-      <guid>//localhost:1314/tags/documentation/</guid>
+      <guid>/tags/documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>//localhost:1314/tags/tutorial/</link>
+      <link>/tags/tutorial/</link>
       <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
-      <guid>//localhost:1314/tags/tutorial/</guid>
+      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>台胞</title>
-      <link>//localhost:1314/tags/%E5%8F%B0%E8%83%9E/</link>
+      <link>/tags/%E5%8F%B0%E8%83%9E/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>//localhost:1314/tags/%E5%8F%B0%E8%83%9E/</guid>
+      <guid>/tags/%E5%8F%B0%E8%83%9E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>大陆门号</title>
+      <link>/tags/%E5%A4%A7%E9%99%86%E9%97%A8%E5%8F%B7/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      <guid>/tags/%E5%A4%A7%E9%99%86%E9%97%A8%E5%8F%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>银行卡</title>
+      <link>/tags/%E9%93%B6%E8%A1%8C%E5%8D%A1/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      <guid>/tags/%E9%93%B6%E8%A1%8C%E5%8D%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>手机门号</title>
+      <link>/tags/%E6%89%8B%E6%9C%BA%E9%97%A8%E5%8F%B7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/%E6%89%8B%E6%9C%BA%E9%97%A8%E5%8F%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>驾照</title>
+      <link>/tags/%E9%A9%BE%E7%85%A7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/%E9%A9%BE%E7%85%A7/</guid>
       <description></description>
     </item>
   </channel>
