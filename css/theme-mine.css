@@ -1,4 +1,9 @@
-
+@font-face {
+    font-family: 'SourceHanSerifCN-Bold';
+    src: url('/fonts/SourceHanSerifCN-Bold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
 :root{
 
     --MAIN-TEXT-color:#212529; /* Color of text by default */
@@ -25,19 +30,24 @@
     --MENU-SECTION-HR-color: #f3f1f1; /* Color of <hr> separator in menu */
 
 }
+
 *{
 font-weight:400;
 font-size:1.13rem;
 }
+
 body{
     color: var(--MAIN-TEXT-color) !important;
     font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
 }
+
 #chapter p{
-font-size:1.05rem
+font-size:1.05rem;
 }
 
-
+#footer p{
+font-size:0.78rem;
+}
 
 #body a.highlight:after {
     display: block;
@@ -57,8 +67,13 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     box-shadow: none;
 }
 
+h1{
+  font-size:2rem;
+  font-family:"SourceHanSerifCN-Bold";
+}
 h2, h3, h4, h5 {
-    color: var(--MAIN-TITLES-TEXT-color) !important;
+  color: var(--MAIN-TITLES-TEXT-color) !important;
+  font-family:"SourceHanSerifCN-Bold";
 }
 
 a {
@@ -122,3 +137,41 @@ a:hover {
 }
 
 
+.faq-question h2 {
+    cursor: pointer;
+    color: #007bff;
+    margin: 0;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.faq-answer {
+    display: none;
+    padding: 10px;
+    border-left: 3px solid #007bff;
+    margin-bottom: 10px;
+}
+
+div.notices.info p:first-child:after {
+    content: '温馨提示';
+}
+div.notices.warning p:first-child:after {
+    content: '警告内容';
+}
+div.notices.note p:first-child:after {
+    content: '信息关注';
+}
+div.notices.tip p:first-child:after {
+    content: '小技巧';
+}
+b, strong{
+font-size:1.125rem;
+}
+code {
+    background: #ffdddd;
+    border: 1px solid #fbcbcb;
+    font-size:1rem;
+}
+#chapter p{
+text-align:left;
+}

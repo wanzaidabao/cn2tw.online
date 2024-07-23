@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shortcodes on 湾湾小灵通-二岸飛行筆記</title>
-    <link>//localhost:1314/shortcodes/</link>
+    <link>http://10.11.11.20:1314/shortcodes/</link>
     <description>Recent content in Shortcodes on 湾湾小灵通-二岸飛行筆記</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1314/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://10.11.11.20:1314/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attachments</title>
-      <link>//localhost:1314/shortcodes/attachments/</link>
+      <link>http://10.11.11.20:1314/shortcodes/attachments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/shortcodes/attachments/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/attachments/</guid>
       <description>The Attachments shortcode displays a list of files attached to a page.&#xA;附件 BachGavotteShort.mp3 (357 KB) Carroll_AliceAuPaysDesMerveilles.pdf (175 KB) adivorciarsetoca00cape.pdf (361 KB) hugo.png (17 KB) movieselectricsheep-flock-244-32500-2.mp4 (340 KB) small_file.txt (48 B) Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages&#xA;If your page is a markdown file, attachements must be placed in a folder named like your page and ending with .files.</description>
     </item>
     <item>
       <title>Button</title>
-      <link>//localhost:1314/shortcodes/button/</link>
+      <link>http://10.11.11.20:1314/shortcodes/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/shortcodes/button/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/button/</guid>
       <description>A button is a just a clickable button with optional icon.&#xA;{{% button href=&amp;#34;https://getgrav.org/&amp;#34; %}}Get Grav{{% /button %}} {{% button href=&amp;#34;https://getgrav.org/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; %}}Get Grav with icon{{% /button %}} {{% button href=&amp;#34;https://getgrav.org/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; icon-position=&amp;#34;right&amp;#34; %}}Get Grav with icon right{{% /button %}} Get Grav Get Grav with icon Get Grav with icon right </description>
     </item>
     <item>
       <title>Expand</title>
-      <link>//localhost:1314/shortcodes/expand/</link>
+      <link>http://10.11.11.20:1314/shortcodes/expand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/shortcodes/expand/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/expand/</guid>
       <description>The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example&#xA;展开 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title>Mermaid</title>
-      <link>//localhost:1314/shortcodes/mermaid/</link>
+      <link>http://10.11.11.20:1314/shortcodes/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/shortcodes/mermaid/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/mermaid/</guid>
       <description>Mermaid is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.&#xA;Just insert your mermaid code in the mermaid shortcode and that&amp;rsquo;s it.&#xA;Flowchart example {{&amp;lt;mermaid align=&amp;quot;left&amp;quot;&amp;gt;}} graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] {{&amp;lt; /mermaid &amp;gt;}} renders as&#xA;graph LR; A[Hard edge] --&gt;|Link text| B(Round edge) B --&gt; C{Decision} C --&gt;|One| D[Result one] C --&gt;|Two| E[Result two] Sequence example {{&amp;lt; mermaid &amp;gt;}} sequenceDiagram participant Alice participant Bob Alice-&amp;gt;&amp;gt;John: Hello John, how are you?</description>
     </item>
     <item>
       <title>Notice</title>
-      <link>//localhost:1314/shortcodes/notice/</link>
+      <link>http://10.11.11.20:1314/shortcodes/notice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/shortcodes/notice/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/notice/</guid>
       <description>The notice shortcode shows 4 types of disclaimers to help you structure your page.&#xA;Note {{% notice note %}} A notice disclaimer {{% /notice %}} renders as&#xA;A notice disclaimer&#xA;Info {{% notice info %}} An information disclaimer {{% /notice %}} renders as&#xA;An information disclaimer&#xA;Tip {{% notice tip %}} A tip disclaimer {{% /notice %}} renders as&#xA;A tip disclaimer&#xA;Warning {{% notice warning %}} A warning disclaimer {{% /notice %}} renders as</description>
     </item>
     <item>
       <title>Site param</title>
-      <link>//localhost:1314/shortcodes/siteparam/</link>
+      <link>http://10.11.11.20:1314/shortcodes/siteparam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/shortcodes/siteparam/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/siteparam/</guid>
       <description>siteparam shortcode is used to help you print values of site params.&#xA;For instance, in this current site, the editURL variable is used in config.toml&#xA;[params] editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34; Use the siteparam shortcode to display its value.&#xA;`editURL` Value : {{% siteparam &amp;#34;editURL&amp;#34; %}} is displayed as&#xA;editURL Value :</description>
     </item>
     <item>
       <title>Tabbed views</title>
-      <link>//localhost:1314/shortcodes/tabs/</link>
+      <link>http://10.11.11.20:1314/shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/shortcodes/tabs/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/tabs/</guid>
       <description>Choose which content to see across the page. Very handy for providing code snippets for multiple languages or providing configuration in different formats.&#xA;Code example {{&amp;lt; tabs &amp;gt;}} {{% tab name=&amp;quot;python&amp;quot; %}} ```python print(&amp;quot;Hello World!&amp;quot;) ``` {{% /tab %}} {{% tab name=&amp;quot;R&amp;quot; %}} ```R &amp;gt; print(&amp;quot;Hello World!&amp;quot;) ``` {{% /tab %}} {{% tab name=&amp;quot;Bash&amp;quot; %}} ```Bash echo &amp;quot;Hello World!&amp;quot; ``` {{% /tab %}} {{&amp;lt; /tabs &amp;gt;}} Renders as:&#xA;python R Bash print(&amp;#34;Hello World!</description>
     </item>
   </channel>
