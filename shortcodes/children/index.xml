@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Children on 湾湾小灵通-二岸飛行筆記</title>
-    <link>http://10.11.11.20:1314/shortcodes/children/</link>
+    <link>https://cn2tw.online/shortcodes/children/</link>
     <description>Recent content in Children on 湾湾小灵通-二岸飛行筆記</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="http://10.11.11.20:1314/shortcodes/children/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cn2tw.online/shortcodes/children/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>page test</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/test/</link>
+      <link>https://cn2tw.online/shortcodes/children/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/test/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/test/</guid>
       <description>This is a test demo child page</description>
     </item>
   </channel>
