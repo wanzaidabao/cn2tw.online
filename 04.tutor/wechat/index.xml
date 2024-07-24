@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>微信 on 湾湾小灵通-二岸飛行筆記</title>
-    <link>https://cn2tw.online/04.tutor/wechat/</link>
+    <link>http://10.11.11.20:1314/04.tutor/wechat/</link>
     <description>Recent content in 微信 on 湾湾小灵通-二岸飛行筆記</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="https://cn2tw.online/04.tutor/wechat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://10.11.11.20:1314/04.tutor/wechat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>申請微信帳號</title>
-      <link>https://cn2tw.online/04.tutor/wechat/wechat-apply/</link>
+      <link>http://10.11.11.20:1314/04.tutor/wechat/wechat-apply/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cn2tw.online/04.tutor/wechat/wechat-apply/</guid>
+      <guid>http://10.11.11.20:1314/04.tutor/wechat/wechat-apply/</guid>
       <description>如何申請微信帳號（微信帳號申請小學生教程） 如果您申請時遇到問題，歡迎留言給灣灣。</description>
     </item>
     <item>
       <title>微信帳號常见问答</title>
-      <link>https://cn2tw.online/04.tutor/wechat/wechat-faq/</link>
+      <link>http://10.11.11.20:1314/04.tutor/wechat/wechat-faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cn2tw.online/04.tutor/wechat/wechat-faq/</guid>
+      <guid>http://10.11.11.20:1314/04.tutor/wechat/wechat-faq/</guid>
       <description>环境存在异常怎么回事？当出现异常时，往往伴随着号被封（或功能限制）的情况，而且莫名时有发生，今天我们来说说来龙去脉和其中的奥秘，在此跟大家分享一下。首先，什么是环境异常？所谓的环境是指登录时所依赖的所有介质，当出现环境异常时，建议先从根本原因解决问题之后，再去解风操作，以免再次出现造成恶性循环，那么，哪些情况会导致环境异常呢？&#xA;微信设备网络环境异常 一.机卡异常：&#xA;例如使用的是虚拟的卡，或绑定过不活跃的号及违规的号，或存在频繁创建以及换绑等风险行为，这种情况只要换个干净的号即可解决问题。&#xA;二.网络原因&#xA;同个网络地址下存在多号，而且昵称资料雷同，被系统判定风险环境。解决的方法是更换干净的网络，并减少登录的数量。&#xA;三.设备异常&#xA;例如同个设备中存在多号，或被封过多次的，及使用过多开，模拟器的，设备都可能被拉入黑名单，解决的方法很简单，换成常用的和正常的设备即可，那之前的设备怎么办呢？最好的建议是恢复出厂进行重置。&#xA;四.行为异常&#xA;刚创建后立刻频繁添加，频繁发布消息等行为造成。解决的方法是，切勿在短时间内频繁操作！并且多养号后再使用。&#xA;五.被封问题&#xA;环境异常造成的处罚多数是临时类型，可以根据系统的指引，完成自助辅助流程后即可恢复正常使用，如辅助的方式行不通，这个时候也选择其他的方式解决。也有少部分是永久的类型，正确的填写申诉信息，很多情况下还是有机会的。因环境异常不属于特别严重的问题。</description>
     </item>
   </channel>
