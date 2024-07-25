@@ -88,6 +88,9 @@
   </url><url>
     <loc>http://10.11.11.20:1314/21.china-travel/chongqing-trips-10days/</loc>
   </url><url>
+    <loc>http://10.11.11.20:1314/basics/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url><url>
     <loc>http://10.11.11.20:1314/cont/menushortcuts.en/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
@@ -97,12 +100,18 @@
     <loc>http://10.11.11.20:1314/basics/style-customization/_index.en/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
+    <loc>http://10.11.11.20:1314/cont/</loc>
+    <lastmod>2020-06-01T13:31:12+01:00</lastmod>
+  </url><url>
     <loc>http://10.11.11.20:1314/cont/icons.en/</loc>
   </url><url>
     <loc>http://10.11.11.20:1314/cont/i18n/_index.en/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
     <loc>http://10.11.11.20:1314/cont/i18n/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url><url>
+    <loc>http://10.11.11.20:1314/shortcodes/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
     <loc>http://10.11.11.20:1314/09.disqus/</loc>
