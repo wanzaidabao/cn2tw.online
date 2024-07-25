@@ -10,51 +10,128 @@
     <atom:link href="http://10.11.11.20:1314/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attachments</title>
-      <link>http://10.11.11.20:1314/shortcodes/attachments/</link>
+      <link>http://10.11.11.20:1314/shortcodes/attachments.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/attachments/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/attachments.en/</guid>
       <description>The Attachments shortcode displays a list of files attached to a page.&#xA;附件 BachGavotteShort.mp3 (357 KB) Carroll_AliceAuPaysDesMerveilles.pdf (175 KB) adivorciarsetoca00cape.pdf (361 KB) hugo.png (17 KB) movieselectricsheep-flock-244-32500-2.mp4 (340 KB) small_file.txt (48 B) Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages&#xA;If your page is a markdown file, attachements must be placed in a folder named like your page and ending with .files.</description>
     </item>
     <item>
       <title>Button</title>
-      <link>http://10.11.11.20:1314/shortcodes/button/</link>
+      <link>http://10.11.11.20:1314/shortcodes/button.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/button/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/button.en/</guid>
       <description>A button is a just a clickable button with optional icon.&#xA;{{% button href=&amp;#34;https://getgrav.org/&amp;#34; %}}Get Grav{{% /button %}} {{% button href=&amp;#34;https://getgrav.org/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; %}}Get Grav with icon{{% /button %}} {{% button href=&amp;#34;https://getgrav.org/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; icon-position=&amp;#34;right&amp;#34; %}}Get Grav with icon right{{% /button %}} Get Grav Get Grav with icon Get Grav with icon right </description>
     </item>
     <item>
-      <title>Expand</title>
-      <link>http://10.11.11.20:1314/shortcodes/expand/</link>
+      <title>Children</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/expand/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/children/_index.en/</guid>
+      <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.&#xA;Usage Parameter Default Description page current Specify the page name (section name) to display children for style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name showhidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will be displayed description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
+    </item>
+    <item>
+      <title>Expand</title>
+      <link>http://10.11.11.20:1314/shortcodes/expand.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/expand.en/</guid>
       <description>The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example&#xA;展开 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title>Mermaid</title>
-      <link>http://10.11.11.20:1314/shortcodes/mermaid/</link>
+      <link>http://10.11.11.20:1314/shortcodes/mermaid.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/mermaid/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/mermaid.en/</guid>
       <description>Mermaid is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.&#xA;Just insert your mermaid code in the mermaid shortcode and that&amp;rsquo;s it.&#xA;Flowchart example {{&amp;lt;mermaid align=&amp;quot;left&amp;quot;&amp;gt;}} graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] {{&amp;lt; /mermaid &amp;gt;}} renders as&#xA;graph LR; A[Hard edge] --&gt;|Link text| B(Round edge) B --&gt; C{Decision} C --&gt;|One| D[Result one] C --&gt;|Two| E[Result two] Sequence example {{&amp;lt; mermaid &amp;gt;}} sequenceDiagram participant Alice participant Bob Alice-&amp;gt;&amp;gt;John: Hello John, how are you?</description>
     </item>
     <item>
       <title>Notice</title>
-      <link>http://10.11.11.20:1314/shortcodes/notice/</link>
+      <link>http://10.11.11.20:1314/shortcodes/notice.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/notice/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/notice.en/</guid>
       <description>The notice shortcode shows 4 types of disclaimers to help you structure your page.&#xA;Note {{% notice note %}} A notice disclaimer {{% /notice %}} renders as&#xA;A notice disclaimer&#xA;Info {{% notice info %}} An information disclaimer {{% /notice %}} renders as&#xA;An information disclaimer&#xA;Tip {{% notice tip %}} A tip disclaimer {{% /notice %}} renders as&#xA;A tip disclaimer&#xA;Warning {{% notice warning %}} A warning disclaimer {{% /notice %}} renders as</description>
     </item>
     <item>
-      <title>Site param</title>
-      <link>http://10.11.11.20:1314/shortcodes/siteparam/</link>
+      <title>page 1</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/children-1/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/siteparam/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/_index.en/</guid>
+      <description>This is a demo child page</description>
+    </item>
+    <item>
+      <title>page 1-1</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/_index.en/</guid>
+      <description>This is a demo child page</description>
+    </item>
+    <item>
+      <title>page 1-1-1</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.en/</guid>
+      <description>This is a demo child page</description>
+    </item>
+    <item>
+      <title>page 1-1-1-1</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.en/</guid>
+      <description>This is a demo child page</description>
+    </item>
+    <item>
+      <title>page 1-1-1-1-1</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.en/</guid>
+      <description>This is a demo child page</description>
+    </item>
+    <item>
+      <title>page 2</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/children-2/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/children/children-2/_index.en/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title>page 3</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/children-3/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/children/children-3/_index.en/</guid>
+      <description>This is a demo child page, not displayed in the menu</description>
+    </item>
+    <item>
+      <title>page 4</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/children-4/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/children/children-4/_index.en/</guid>
+      <description>This is a demo child page, not displayed in the menu</description>
+    </item>
+    <item>
+      <title>page test</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/test.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/children/test.en/</guid>
+      <description>This is a test demo child page</description>
+    </item>
+    <item>
+      <title>page test 3</title>
+      <link>http://10.11.11.20:1314/shortcodes/children/children-2/test3.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/children/children-2/test3.en/</guid>
+      <description>This is a test 3 demo child page</description>
+    </item>
+    <item>
+      <title>Site param</title>
+      <link>http://10.11.11.20:1314/shortcodes/siteparam.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/shortcodes/siteparam.en/</guid>
       <description>siteparam shortcode is used to help you print values of site params.&#xA;For instance, in this current site, the editURL variable is used in config.toml&#xA;[params] editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34; Use the siteparam shortcode to display its value.&#xA;`editURL` Value : {{% siteparam &amp;#34;editURL&amp;#34; %}} is displayed as&#xA;editURL Value :</description>
     </item>
     <item>
       <title>Tabbed views</title>
-      <link>http://10.11.11.20:1314/shortcodes/tabs/</link>
+      <link>http://10.11.11.20:1314/shortcodes/tabs.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/tabs/</guid>
+      <guid>http://10.11.11.20:1314/shortcodes/tabs.en/</guid>
       <description>Choose which content to see across the page. Very handy for providing code snippets for multiple languages or providing configuration in different formats.&#xA;Code example {{&amp;lt; tabs &amp;gt;}} {{% tab name=&amp;quot;python&amp;quot; %}} ```python print(&amp;quot;Hello World!&amp;quot;) ``` {{% /tab %}} {{% tab name=&amp;quot;R&amp;quot; %}} ```R &amp;gt; print(&amp;quot;Hello World!&amp;quot;) ``` {{% /tab %}} {{% tab name=&amp;quot;Bash&amp;quot; %}} ```Bash echo &amp;quot;Hello World!&amp;quot; ``` {{% /tab %}} {{&amp;lt; /tabs &amp;gt;}} Renders as:&#xA;python R Bash print(&amp;#34;Hello World!</description>
     </item>
   </channel>

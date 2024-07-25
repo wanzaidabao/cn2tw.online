@@ -6,7 +6,14 @@
     <description>Recent content in Multilingual and i18n on 湾湾小灵通-二岸飛行筆記</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
     <atom:link href="http://10.11.11.20:1314/cont/i18n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multilingual and i18n</title>
+      <link>http://10.11.11.20:1314/cont/i18n/_index.en/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      <guid>http://10.11.11.20:1314/cont/i18n/_index.en/</guid>
+      <description>Learn theme is fully compatible with Hugo multilingual mode.&#xA;It provides:&#xA;Translation strings for default values (English and French). Feel free to contribute ! Automatic menu generation from multilingual content In-browser language switching Basic configuration After learning how Hugo handle multilingual websites, define your languages in your config.toml file.&#xA;For example with current French and English website.&#xA;# English is the default language defaultContentLanguage = &amp;#34;en&amp;#34; # Force to have /en/my-page and /fr/my-page routes, even for default language.</description>
+    </item>
   </channel>
 </rss>

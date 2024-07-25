@@ -36,6 +36,24 @@ font-weight:400;
 font-size:1.13rem;
 }
 
+div.notices.wanwan::before {
+    position: absolute;
+    top: 2px;
+    color: #fff;
+    left: 30px;
+    font-size:1.18rem;
+    font-weight:500;
+    content: attr(data-title);
+
+}
+
+
+div.notices.wanwan p {
+    border-top: 30px solid #6AB0DE;
+    background: #E7F2FA;
+}
+
+
 body{
     color: var(--MAIN-TEXT-color) !important;
     font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -68,17 +86,36 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     box-shadow: none;
 }
 
+h2, h3, h4, h5, h6 {
+  color: var(--MAIN-TITLES-TEXT-color) !important;
+  font-family:"SourceHanSerifCN-Bold";
+  line-height: 125% !important;
+}
+
 h1{
   font-size:2rem;
   font-family:"SourceHanSerifCN-Bold";
 }
-h2, h3, h4, h5, h6 {
-  color: var(--MAIN-TITLES-TEXT-color) !important;
-  font-family:"SourceHanSerifCN-Bold";
+h2 {
+  font-size: 1.8rem;
 }
+
+h3 {
+  font-size: 1.6rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
 h6 {
 font-size:1rem;
 }
+
 
 a {
     color: var(--MAIN-LINK-color);
@@ -161,6 +198,9 @@ a:hover {
     margin-bottom: 10px;
 }
 
+div.notices  p:first-child:after {
+  font-size:1.06rem;
+}
 div.notices.info p:first-child:after {
     content: '温馨提示';
 }
@@ -174,7 +214,7 @@ div.notices.tip p:first-child:after {
     content: '小技巧';
 }
 b, strong{
-font-size:1.125rem;
+font-size:1rem;
 }
 code {
     background: #ffdddd;

@@ -6,7 +6,35 @@
     <description>Recent content in Basics on 湾湾小灵通-二岸飛行筆記</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
     <atom:link href="http://10.11.11.20:1314/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Requirements</title>
+      <link>http://10.11.11.20:1314/basics/requirements/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/basics/requirements/_index.en/</guid>
+      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.&#xA;Just download latest version of Hugo binary (&amp;gt; 0.25) for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.</description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>http://10.11.11.20:1314/basics/installation/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://10.11.11.20:1314/basics/installation/_index.en/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.&#xA;Create your project Hugo provides a new command to create a new website.&#xA;hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation&#xA;This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git&#xA;Alternatively, you can download the theme as .</description>
+    </item>
+    <item>
+      <title>Configuration</title>
+      <link>http://10.11.11.20:1314/basics/configuration/_index.en/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      <guid>http://10.11.11.20:1314/basics/configuration/_index.en/</guid>
+      <description>Global site parameters On top of Hugo global configuration, Hugo-theme-learn lets you define the following parameters in your config.toml (here, values are default).&#xA;Note that some of these parameters are explained in details in other sections of this documentation.&#xA;[params] # Prefix URL to edit current page. Will display an &amp;#34;Edit this page&amp;#34; button on top right hand corner of every page. # Useful to give opportunity to people to create merge request for your doc.</description>
+    </item>
+    <item>
+      <title>Style customization</title>
+      <link>http://10.11.11.20:1314/basics/style-customization/_index.en/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      <guid>http://10.11.11.20:1314/basics/style-customization/_index.en/</guid>
+      <description>Hugo-theme-learn has been built to be as configurable as possible by defining multiple partials&#xA;In themes/hugo-theme-learn/layouts/partials/, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead follow this page. You&amp;rsquo;d create a new partial in the layouts/partials folder of your local project. This partial will have the priority.&#xA;This theme defines the following partials :&#xA;header: the header of the content page (contains the breadcrumbs).</description>
+    </item>
   </channel>
 </rss>
