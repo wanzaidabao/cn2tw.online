@@ -2,367 +2,367 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>湾湾小灵通 on 湾湾小灵通-二岸飛行筆記</title>
-    <link>http://10.11.11.20:1314/</link>
+    <link>https://cn2tw.online/</link>
     <description>Recent content in 湾湾小灵通 on 湾湾小灵通-二岸飛行筆記</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 01 Jun 2020 13:31:12 +0100</lastBuildDate>
-    <atom:link href="http://10.11.11.20:1314/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cn2tw.online/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pages organization</title>
-      <link>http://10.11.11.20:1314/cont/pages/_index.en/</link>
+      <link>https://cn2tw.online/cont/pages/_index.en/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/cont/pages/_index.en/</guid>
+      <guid>https://cn2tw.online/cont/pages/_index.en/</guid>
       <description>In Hugo, pages are the core of your site. Once it is configured, pages are definitely the added value to your documentation site.&#xA;Folders Organize your site like any other Hugo project. Typically, you will have a content folder with all your pages.&#xA;content ├── level-one │ ├── level-two │ │ ├── level-three │ │ │ ├── level-four │ │ │ │ ├── _index.md &amp;lt;-- /level-one/level-two/level-three/level-four │ │ │ │ ├── page-4-a.</description>
     </item>
     <item>
       <title>Archetypes</title>
-      <link>http://10.11.11.20:1314/cont/archetypes.en/</link>
+      <link>https://cn2tw.online/cont/archetypes.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/cont/archetypes.en/</guid>
+      <guid>https://cn2tw.online/cont/archetypes.en/</guid>
       <description>Using the command: hugo new [relative new content path], you can start a content file with the date and title automatically set. While this is a welcome feature, active writers need more: archetypes.&#xA;It is pre-configured skeleton pages with default front matter. Please refer to the documentation for types of page to understand the differences.&#xA;Chapter To create a Chapter page, run the following commands&#xA;hugo new --kind chapter &amp;lt;name&amp;gt;/_index.md It will create a page with predefined Front-Matter:</description>
     </item>
     <item>
       <title>Requirements</title>
-      <link>http://10.11.11.20:1314/basics/requirements/_index.en/</link>
+      <link>https://cn2tw.online/basics/requirements/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/basics/requirements/_index.en/</guid>
+      <guid>https://cn2tw.online/basics/requirements/_index.en/</guid>
       <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.&#xA;Just download latest version of Hugo binary (&amp;gt; 0.25) for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.</description>
     </item>
     <item>
       <title>1. 准备工作</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/1-zhun-bei-gong-zuo/</link>
+      <link>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/1-zhun-bei-gong-zuo/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/1-zhun-bei-gong-zuo/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/1-zhun-bei-gong-zuo/</guid>
       <description> 证件准备： 台胞证 台湾身份证 护照（建议携带，以备不时之需） 资金准备： 在台湾兑换300-500元人民币 准备可在大陆使用的信用卡 申請好微信、支付宝 到达后： 可以在机场或码头附近商店购买饮料，获取零钱 使用现金打车或下载美团App用台湾信用卡叫滴滴车 </description>
     </item>
     <item>
       <title>补充说明</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/1-residence-permit-for-taiwan/rpt-notice/</link>
+      <link>https://cn2tw.online/01.credential-papers/1-residence-permit-for-taiwan/rpt-notice/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/1-residence-permit-for-taiwan/rpt-notice/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/1-residence-permit-for-taiwan/rpt-notice/</guid>
       <description>补充一下台湾居民办理居住证需要注意的几个问题 最近有很多朋友看了网路影片后，为了办理居住证就特地跑去金山派出所办理。 其实，岛内各个派出所都可以办理居住证，没必要都去金山派出所。&#xA;重点是，你住在哪家酒店，就去你所在酒店的辖区派出所办理。&#xA;有些派出所需要你出示酒店入住证明或房卡，有些则不需要。&#xA;还有一个很重要的问题，有些人办理居住证主要是为了做抖音直播。&#xA;但是，用 居住证实名认证的抖音账号，只能绑定用居住证办理的银行卡，无法匹配用台胞证办理的银行卡。&#xA;如果你不知道这个盲区，等你回到台湾，会发现还是需要再跑一趟。&#xA;很多人第一次来大陆，面对未知的世界会有很多顾虑和担心，这没关系。刚好可以借着办理居住证的机会，增进对两岸的了解。&#xA;╰┈➤.台湾居民居住证&amp;#43;大陆门号&amp;#43;银行卡全攻略重制版懒人包 </description>
     </item>
     <item>
       <title>支付指南</title>
-      <link>http://10.11.11.20:1314/02.payment-tools/apps-for-payment/</link>
+      <link>https://cn2tw.online/02.payment-tools/apps-for-payment/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/02.payment-tools/apps-for-payment/</guid>
+      <guid>https://cn2tw.online/02.payment-tools/apps-for-payment/</guid>
       <description>微信：使用率较广，有些店家只支持微信扫码点餐付款。但大多店长会帮你用支付宝&#xA;支付寶：大陆没有支付宝 出行三餐很烦恼&#xA;一、中国大陆目前的主要支付工具 移动支付 微信支付：腾讯公司开发，与微信应用绑定 支付宝：阿里巴巴集团开发，独立应用 其他：如云闪付、百度钱包等（使用较少） 银行卡 借记卡（储蓄卡） 信用卡 现金 使用频率大幅降低，但部分小商贩仍接受 二、如何申请和使用主要支付工具 微信支付 申请步骤： 1-1. 下载并安装微信app 1-2. 使用台湾手机号注册微信账号 1-3. 在&amp;quot;我&amp;quot;-&amp;ldquo;支付&amp;quot;中开通微信支付 1-4. 绑定台湾发行的银联卡或Visa/MasterCard信用卡 使用方法：&#xA;扫描商家二维码支付 出示个人收款码让商家扫描 小程序内支付 支付宝 申请步骤： 3-1. 下载并安装支付宝app 3-2. 使用台湾手机号注册账号 3-3. 完成实名认证（可使用台胞证） 3-4. 绑定台湾发行的银联卡或国际信用卡 使用方法：&#xA;扫描商家的支付宝二维码 出示个人收款码 在线上商城使用支付宝结算 注意事项&#xA;确保手机网络正常，建议购买大陆电话卡或开通国际漫游 首次使用可能需要进行身份验证 部分功能可能因监管要求对境外用户有限制 三、没有移动支付工具的应变措施 使用银联卡 许多商户和ATM支持银联卡 可在银行柜台或ATM机提取现金 国际信用卡 大型商场、连锁店和高档餐厅通常接受Visa、MasterCard等 建议事先询问商家是否接受国际信用卡 现金 建议随身携带适量现金 可在机场、银行或有&amp;quot;外币兑换&amp;quot;标志的地方兑换人民币 注意保管好现金，尽量不要携带大额现金 预付卡 一些景区或商业区提供预付卡服务 可以在服务中心购买并充值使用 请求协助 可以请同行的朋友或善意的路人协助支付，之后以现金或其他方式偿还 四、实用建议 提前准备：在出发前下载并注册微信和支付宝 备用方案：准备多种支付方式，如移动支付、银行卡和适量现金 网络确保：购买当地SIM卡或开通国际漫游服务 安全第一：设置支付密码，不要在不安全的网络环境下进行支付操作 及时求助：遇到支付问题时，可以寻求商家或银行的帮助 结语：虽然大陆的移动支付非常普及，但首次旅游的台湾居民仍可能遇到一些不适应。建议在出发前做好充分准备，多种支付方式并用，以确保旅途中的支付便利。随着使用次数增加，您会发现大陆的移动支付既方便又安全，能大大提升旅行体验。祝您在大陆旅游愉快！</description>
     </item>
     <item>
       <title>台胞申领居住证问答</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/1-residence-permit-for-taiwan/rpt-faq-from-mac/</link>
+      <link>https://cn2tw.online/01.credential-papers/1-residence-permit-for-taiwan/rpt-faq-from-mac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/1-residence-permit-for-taiwan/rpt-faq-from-mac/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/1-residence-permit-for-taiwan/rpt-faq-from-mac/</guid>
       <description>申領「居住證」問題懶人包與QA 以下是转载陆委会的问答内容，供各位参考。 资源来源：陆委会&#xA;Q1: 領用「居住證」真的會被註銷臺灣戶籍嗎？ A: 臺灣民眾領用「居住證」，倘未在中國大陸設籍或領用陸方護照，尚無違反現行兩岸人民關係條例第9條之1的規定，沒有立即被註銷戶籍的問題。&#xA;Q2: 申領「居住證」可能會有什麼風險？ A: 答： （一）領證者有可能被要求就全球所得繳稅 中國大陸2018年8月31日通過「個人所得稅法」，明訂在中國大陸境內居住滿183日，即為需繳納全球所得稅的稅務居民；陸方隨即於9月1日起核發「居住證」，符合在陸居住半年（183天）以上等條件，可申領「居住證」。未來持有「居住證」的臺灣民眾，都可能會被要求就全球所得繳納個人所得稅，增加稅務負擔。&#xA;（二）參加中國大陸社保不一定能增加保障 中國大陸當局宣稱，領「居住證」者享有參加社會保險的權利，但陸方的社保基金管理，一直存在貪腐、監督不足等弊端；且醫療保險的保費負擔較重、給付複雜，臺灣民眾參加中國大陸的「五險一金」社會保險，看似增加權益，實際上反而可能增加負擔。&#xA;（三）個人隱私恐遭全面監控，人身安全風險升高 中國大陸近年建置「天網」工程，透過科技對民眾進行全面監控。臺灣民眾申請「居住證」需提供指紋資料，在陸使用「居住證」購車票、訂住宿的行止動態，很可能被蒐集掌握。領用「居住證」的臺灣民眾，將會面臨陸方全面監控與暴露隱私的風險。&#xA;Q3：對於領證者，政府未來會有如何管理作為？ 答： （一）對國人寬容對待，對中國大陸當局的政治意圖嚴加防範 政府理解在陸國人為生活便利而持有「居住證」，將予寬容對待，但對「居住證」背後隱藏的政治意圖，政府必須嚴加防範。&#xA;（二）對領證者將研議申報機制及擔任公職之限制 依據民調顯示，有6成國人認為領用「居住證」的民眾須進行申報，也支持政府採取相應管理作為。目前政府規劃，領用「居住證」者，可經多元管道向主管機關申報，未依期限申報者處以罰鍰；另研擬對領證者參選立委、縣市長等公職，以及擔任公職人員，有一定程度的限制。&#xA;Q4：領證者如依規定如實申報，會得到什麼幫助？ 答： 陸委會目前正在研擬兩岸人民關係條例修法草案，推動國人領用「居住證」的申報機制，對於完成申報的國人，政府將主動提供持有「居住證」相關風險資訊、諮詢服務與急難協處，強化在陸國人權益的保障。&#xA;Q5：政府對於持領綠卡的民眾，沒有管理作為，為何要對領用「居住證」的民眾作管理？ 答： （一）「居住證」是陸方發給「中國公民」的身分證件，與綠卡是美國發給「外國人」的永久居留證，二者性質根本不同 「居住證」與綠卡或各國製發的類似證件，在政治意涵與法律層面差異甚大，不能比擬。綠卡是美國給予外國人的永久居留證件，領證者仍維持原國籍，待居住一定時間、符合一定條件後可申請歸化為公民。中國大陸製發的「居住證」，樣式、編碼均比照中國大陸居民身分證，刻意混淆臺灣人民與中國大陸人民的區分。&#xA;（二）中國大陸核發「居住證」，具有併吞臺灣的政治圖謀 美國從未將持有綠卡的外國人視為本國公民，亦未否認綠卡持有者母國的主權地位，或宣稱對其領土及人民具有統治權，更未對其具有武力併吞的企圖。反之，中國大陸當局對於臺灣的政治圖謀，國人不可輕忽漠視。&#xA;╰┈➤.台湾居民居住证&amp;#43;大陆门号&amp;#43;银行卡全攻略重制版懒人包 </description>
     </item>
     <item>
       <title>2. 办理手机号码</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/2-shou-ji-hao-ma-ban-li/</link>
+      <link>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/2-shou-ji-hao-ma-ban-li/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/2-shou-ji-hao-ma-ban-li/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/2-shou-ji-hao-ma-ban-li/</guid>
       <description>推荐运营商： 中国移动：8元基础套餐 中国电信：5.3元基础套餐（部分需居住证） 中国联通：不推荐 办理流程： 直接去营业厅办理 所需材料：台胞证 预存50元话费 选择基础套餐（月租约8元） 注意事项： 确保套餐包含收发短信和拨打电话功能 避免办理合约机 仅用于接收验证码等基本功能即可 重要提醒：&#xA;所有手续均不需要额外费用 不要相信中介的虚假宣传 与工作人员良好沟通可能会使过程更顺利 注意事项：&#xA;准备充足的证件（如台胞证） 如需邮寄居住证，确保有可靠的熟人帮忙接收并转寄 选择适合自己需求的手机套餐和银行卡类型 总结：台湾居民在大陆办理居住证、银行卡和手机号码是相对简单的过程，无需中介协助。了解正确流程可避免不必要的费用和麻烦。如有疑问，可直接咨询相关部门或银行工作人员。</description>
     </item>
     <item>
       <title>3. 居住证办理</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/3-ju-zhu-zheng-ban-li/</link>
+      <link>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/3-ju-zhu-zheng-ban-li/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/3-ju-zhu-zheng-ban-li/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/3-ju-zhu-zheng-ban-li/</guid>
       <description> 办理地点： 福建省内任何派出所户籍科 或政务中心公安窗口（如湖里区枋湖南路29号，思明区前埔东路20号） 所需材料： 台胞证 大陆手机号码 酒店房卡或入住证明（部分派出所需要） 福建省内地址（可使用熟人地址或酒店地址） 注意事项： 穿深色衣服拍证件照 无需租房合同或工作证明 18岁以下需监护人陪同 办理时间约10-15分钟 领取方式： 慢件：10天后自行领取 快件：2-5天内EMS送达（仅限福建省内） 可让派出所邮寄到熟人地址，再转寄回台湾 </description>
     </item>
     <item>
       <title>大陆电话卡</title>
-      <link>http://10.11.11.20:1314/03.transport-hotels/mobile/</link>
+      <link>https://cn2tw.online/03.transport-hotels/mobile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/03.transport-hotels/mobile/</guid>
+      <guid>https://cn2tw.online/03.transport-hotels/mobile/</guid>
       <description>优点：讯号稳定，讯号覆盖率几乎百分百。&#xA;缺点：套餐资费相对较高，相同覆盖率讯号没有其他两家强。主要体现在5G网路的速度上影响不大&#xA;月租:￥8元 流量:100M 语音: 0分钟&#xA;套餐:8元畅享 *月流量余次月可用 *需从其他套餐转&#xA;套餐资费低，网路流量多，性价比高。网速也快些。&#xA;缺点：相对而言讯号覆盖较少，但在城市或热门景点完全没有问题&#xA;月租:￥8元 流量:200M 语音:30分钟&#xA;套餐:4G全国流量王 *月流量余次月可用 *需从其他套餐转&#xA;主营网络宽带业务，早期只有固定电话业务，2010年后才开始手机业务。 只推荐在城市短期行程的流量卡业务。&#xA;月租:￥5元 流量:200M 语音: 0分钟&#xA;套餐:无忧卡 *月流量余次月可用 *部份地区直营厅可直接办理。&#xA;推荐移动，可以直接找专人预约办理移动8元卡，仅需台胞证。或者自行去移动营业厅办理。营业厅办理套餐卡首月都比较贵，次月可自行在移动APP改为八元基础套餐。&#xA;回台湾后可用来接收大陆APP验证码。&#xA;2024.06.15：到了营业厅，前台人员的话都不要听，坚持就是办8元，不行就换下一家。这次湾湾因为先去市区办事，朋友也知道如何前往中国移动营业厅，&#xA;结果吃中餐时他给我一个大惊喜：他办了每月￥128的套餐。因为前台告诉他现在没有￥8元的，都是￥128。&#xA;补充后续处理方式：因为下午就要飞去重庆，所以直接到了重庆打10086投诉电话，客服会协助你退租。 10086如果你不满意，还可以再往上投诉监管局 10080.</description>
     </item>
     <item>
       <title>住宿</title>
-      <link>http://10.11.11.20:1314/03.transport-hotels/hotels/</link>
+      <link>https://cn2tw.online/03.transport-hotels/hotels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/03.transport-hotels/hotels/</guid>
+      <guid>https://cn2tw.online/03.transport-hotels/hotels/</guid>
       <description>订房的时候如果使用携程请务必在筛选的地方选择「台湾客人适用」&#xA;大陆酒店并不是每间都可以接待台湾人的，这点要非常注意。</description>
     </item>
     <item>
       <title>4. 银行卡办理</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/4-yin-hang-ka-ban-li/</link>
+      <link>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/4-yin-hang-ka-ban-li/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/4-yin-hang-ka-ban-li/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/4-yin-hang-ka-ban-li/</guid>
       <description> 推荐银行： 四大国有银行：工商银行、农业银行、中国银行、建设银行 部分股份制银行（如厦门银行） 所需材料： 台胞证或居住证（也可用居住证领取凭条） 大陆手机号码 注意事项： 一类卡和二类卡区别不大，都有限额 限额主要与使用频率有关，非与工作状况相关 与银行工作人员沟通时说明用途（如网购、交通等） 工作时间通常为早上8:30或9:00开始，下午4:30或5:30结束 建议办理网点： 建设银行金山支行 工商银行湖里支行 中国银行湖里支行 厦门银行万达支行 </description>
     </item>
     <item>
       <title>Markdown syntax</title>
-      <link>http://10.11.11.20:1314/cont/markdown.en/</link>
+      <link>https://cn2tw.online/cont/markdown.en/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/cont/markdown.en/</guid>
+      <guid>https://cn2tw.online/cont/markdown.en/</guid>
       <description>This page is a shameful copy of the great Grav original page. Only difference is information about image customization (resizing, add CSS classes&amp;hellip;)&#xA;Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.&#xA;Markdown is a better way to write HTML, without all the complexities and ugliness that usually accompanies it.</description>
     </item>
     <item>
       <title>Markdown syntax</title>
-      <link>http://10.11.11.20:1314/cont/markdown/</link>
+      <link>https://cn2tw.online/cont/markdown/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/cont/markdown/</guid>
+      <guid>https://cn2tw.online/cont/markdown/</guid>
       <description>This page is a shameful copy of the great Grav original page. Only difference is information about image customization (resizing, add CSS classes&amp;hellip;)&#xA;Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.&#xA;Markdown is a better way to write HTML, without all the complexities and ugliness that usually accompanies it.</description>
     </item>
     <item>
       <title>重要提醒</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/5-zhong-yao-ti-xing/</link>
+      <link>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/5-zhong-yao-ti-xing/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/5-zhong-yao-ti-xing/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/5-zhong-yao-ti-xing/</guid>
       <description> 所有手续均不需要额外费用，警惕中介骗局 大陆基本不使用现金，建议尽快开通移动支付 台胞证实名的APP只能绑定台胞证办理的银行卡 居住证实名的APP只能绑定居住证办理的银行卡 抖音只能用居住证实名，带货需要营业执照（约2000元） </description>
     </item>
     <item>
       <title>Installation</title>
-      <link>http://10.11.11.20:1314/basics/installation/_index.en/</link>
+      <link>https://cn2tw.online/basics/installation/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/basics/installation/_index.en/</guid>
+      <guid>https://cn2tw.online/basics/installation/_index.en/</guid>
       <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.&#xA;Create your project Hugo provides a new command to create a new website.&#xA;hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation&#xA;This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git&#xA;Alternatively, you can download the theme as .</description>
     </item>
     <item>
       <title>Code highlighting</title>
-      <link>http://10.11.11.20:1314/cont/syntaxhighlight.en/</link>
+      <link>https://cn2tw.online/cont/syntaxhighlight.en/</link>
       <pubDate>Mon, 01 Jun 2020 13:31:12 +0100</pubDate>
-      <guid>http://10.11.11.20:1314/cont/syntaxhighlight.en/</guid>
+      <guid>https://cn2tw.online/cont/syntaxhighlight.en/</guid>
       <description>Learn theme uses highlight.js to provide code syntax highlighting.&#xA;Markdown syntax Wrap the code block with three backticks and the name of the language. Highlight will try to auto detect the language if one is not provided.&#xA;```json [ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} }, { &amp;#34;title&amp;#34;: &amp;#34;oranges&amp;#34;, &amp;#34;count&amp;#34;: [17500, null], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} } ] ``` Renders to:&#xA;[ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;.</description>
     </item>
     <item>
       <title>Code highlighting</title>
-      <link>http://10.11.11.20:1314/cont/syntaxhighlight/</link>
+      <link>https://cn2tw.online/cont/syntaxhighlight/</link>
       <pubDate>Mon, 01 Jun 2020 13:31:12 +0100</pubDate>
-      <guid>http://10.11.11.20:1314/cont/syntaxhighlight/</guid>
+      <guid>https://cn2tw.online/cont/syntaxhighlight/</guid>
       <description>Learn theme uses highlight.js to provide code syntax highlighting.&#xA;Markdown syntax Wrap the code block with three backticks and the name of the language. Highlight will try to auto detect the language if one is not provided.&#xA;```json [ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} }, { &amp;#34;title&amp;#34;: &amp;#34;oranges&amp;#34;, &amp;#34;count&amp;#34;: [17500, null], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} } ] ``` Renders to:&#xA;[ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;.</description>
     </item>
     <item>
       <title>常见问题解答（FAQ）</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/7-chang-jian-wen-ti-jie-da-faq/</link>
+      <link>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/7-chang-jian-wen-ti-jie-da-faq/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/7-chang-jian-wen-ti-jie-da-faq/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/7-chang-jian-wen-ti-jie-da-faq/</guid>
       <description>Q: 居住证有效期多长？ A: 通常为 5年，到期 可续签。&#xA;Q: 可以用台湾手机号在大陆叫车吗？ A: 可以。美团等App支持绑定台湾手机号和信用卡。&#xA;Q: 银行卡限额如何提高？ A: 经常使用并保持良好的使用记录，银行会逐步提高限额。&#xA;Q: 抖音带货需要特殊账号吗？ A: 是的，需要办理营业执照和对公账号，费用约2000元左右。&#xA;本指南旨在为台湾居民提供在大陆办理各项手续的清晰指引。记得定期查看官方渠道的最新信息，以确保掌握最新政策变化。祝您在大陆生活愉快！</description>
     </item>
     <item>
       <title>厦门5日参考行程</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/reference-of-xiamen-tips/</link>
+      <link>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/reference-of-xiamen-tips/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/reference-of-xiamen-tips/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/reference-of-xiamen-tips/</guid>
       <description>其实居住证+电话卡+银行帐户，一天就能办完了，赶时间的人就可以准备回台湾了。 如果有预留的时间想自已去领，那接下来的4天就可以到厦门市区玩，也可以飞到重庆更好玩，湾湾在2024年6月就是带朋友办完居住证后， 就直接飞到重庆成都玩3天（只能逛个皮毛而已），然后再飞回厦门领居住证。 day 1 day 2 day 3 day 4 day 5 ✅️港澳台居民居住证&#xA;➡️星级酒店柜台开立「华侨港澳台同胞临时住宿登记表」（备用，有些派出所可能会需要用上）&#xA;➡️厦门市公安局派出所办理「港澳台居民居住证」，需现场拍大头照、留存指纹，会先给“领取凭证” 。&#xA;➡️一般需要5个工作日才能核发。&#xA;✅️中国移动手机门号&#xA;➡️营业厅，开立「业务受理单」。（这个单子会在银行开户时用上）&#xA;✅️中国建设银行开户&#xA;➡️持以上证明在当区银行办理开户(只有银联卡，没有存折本，要开通网银)。&#xA;吃喝玩乐时间&#xA;吃喝玩乐时间&#xA;吃喝玩乐时间&#xA;领证回台湾&#xA;安装 app ✅️微信app&#xA;➡️全程付款便利，不用现金找零，里头有很多小程序可使用，包含：建设银行app、Didi打车、乘车码、美图、大众点评……&#xA;✅️百度地图app&#xA;➡️公共交通、打车、步行、导航……超好用！&#xA;交通信息 ✅️厦门公交车&#xA;➡️上车投现1元，但有些观光巴士3～5元。&#xA;✅️厦门地铁&#xA;➡️可买票，也可用微信内小程序的“乘车码”刷码，进站须安检！&#xA;✅️DiDi打车&#xA;➡️系统可比价，超优惠便利。&#xA;酒店住宿 ✅️Trip app&#xA;➡️订房显示台币价格，线上刷卡，订购/取消都放心！</description>
     </item>
     <item>
       <title>厦门生活小贴士</title>
-      <link>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/tips-of-xiamen-city/</link>
+      <link>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/tips-of-xiamen-city/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/01.credential-papers/rpt-all-in-one-2024/tips-of-xiamen-city/</guid>
+      <guid>https://cn2tw.online/01.credential-papers/rpt-all-in-one-2024/tips-of-xiamen-city/</guid>
       <description> 厦门岛面积小于台北市，交通便利，全島的直線距離不會超過10公里。 機場就在島內，從機場打車到島內，任何地方都不會超過50元。 出租车起步价10元，近一點的十幾塊就可以了。滴滴更便宜30%-50% 网上预订酒店比现场便宜 当地人多说闽南语，但普通话沟通无障碍 注意景区物价可能偏高 可能該出租車的司機，他沒有現金給你找零，所以要准备好支付宝或微信。 可以直接下載一個美團app，用台灣的信用卡叫個滴滴会更方便。 </description>
     </item>
     <item>
       <title>Configuration</title>
-      <link>http://10.11.11.20:1314/basics/configuration/_index.en/</link>
+      <link>https://cn2tw.online/basics/configuration/_index.en/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/basics/configuration/_index.en/</guid>
+      <guid>https://cn2tw.online/basics/configuration/_index.en/</guid>
       <description>Global site parameters On top of Hugo global configuration, Hugo-theme-learn lets you define the following parameters in your config.toml (here, values are default).&#xA;Note that some of these parameters are explained in details in other sections of this documentation.&#xA;[params] # Prefix URL to edit current page. Will display an &amp;#34;Edit this page&amp;#34; button on top right hand corner of every page. # Useful to give opportunity to people to create merge request for your doc.</description>
     </item>
     <item>
       <title>重庆10天自由行</title>
-      <link>http://10.11.11.20:1314/21.china-travel/chongqing-trips-10days/</link>
+      <link>https://cn2tw.online/21.china-travel/chongqing-trips-10days/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/21.china-travel/chongqing-trips-10days/</guid>
+      <guid>https://cn2tw.online/21.china-travel/chongqing-trips-10days/</guid>
       <description>行程参考 人数：假设 2 人&#xA;住宿：璧山 维也纳酒店红宇大道或丽枫酒店轻轨店，904 台币/晚/2 人，约 200 元人民币/晚&#xA;早餐：在台湾出发前自行解决&#xA;上午：从桃园机场飞抵重庆江北国际机场，机场打车至璧山住宿酒店&#xA;午餐：抵达璧山后在酒店附近简单用餐，比如重庆小面，2 人约 30 元&#xA;下午：在璧山酒店休息，适应环境&#xA;晚餐：璧山当地特色餐馆，品尝璧山来凤鱼，2 人约 150 元&#xA;人数：2 人&#xA;住宿：璧山 维也纳酒店红宇大道或丽枫酒店轻轨店，约 200 元人民币/晚&#xA;早餐：酒店附近的包子、豆浆等，2 人约 20 元&#xA;上午：早餐后乘坐 1 号地铁至烈士墓地铁站下车，游览歌乐山&#xA;午餐：大学城柴火鸡，2 人约 180 元&#xA;下午：游览白公馆、渣滓洞&#xA;晚餐：璧山愚牛记养生牛肉汤锅，2 人约 160 元&#xA;人数：2 人&#xA;住宿：璧山 维也纳酒店红宇大道或丽枫酒店轻轨店，约 200 元人民币/晚&#xA;早餐：豆花饭，2 人约 20 元&#xA;上午：乘坐轻轨至秀湖公园站下车，游览秀湖公园&#xA;午餐：渝禾庄火锅（麻辣鸳鸯锅），2 人约 180 元&#xA;下午：游览露营公园&#xA;人数：2 人&#xA;住宿：璧山 维也纳酒店红宇大道或丽枫酒店轻轨店，约 200 元人民币/晚&#xA;早餐：油条、粥，2 人约 15 元&#xA;上午：包车前往大足昌州古城</description>
     </item>
     <item>
       <title>Menu extra shortcuts</title>
-      <link>http://10.11.11.20:1314/cont/menushortcuts.en/</link>
+      <link>https://cn2tw.online/cont/menushortcuts.en/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/cont/menushortcuts.en/</guid>
+      <guid>https://cn2tw.online/cont/menushortcuts.en/</guid>
       <description>You can define additional menu entries or shortcuts in the navigation menu without any link to content.&#xA;Basic configuration Edit the website configuration config.toml and add a [[menu.shortcuts]] entry for each link your want to add.&#xA;Example from the current website:&#xA;[[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fab fa-github&#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;quot; identifier = &amp;quot;ds&amp;quot; url = &amp;quot;https://github.com/matcornic/hugo-theme-learn&amp;quot; weight = 10 [[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fas fa-camera&#39;&amp;gt;&amp;lt;/i&amp;gt; Showcases&amp;quot; url = &amp;quot;/showcase&amp;quot; weight = 11 [[menu.</description>
     </item>
     <item>
       <title>Menu extra shortcuts</title>
-      <link>http://10.11.11.20:1314/cont/menushortcuts/</link>
+      <link>https://cn2tw.online/cont/menushortcuts/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/cont/menushortcuts/</guid>
+      <guid>https://cn2tw.online/cont/menushortcuts/</guid>
       <description>You can define additional menu entries or shortcuts in the navigation menu without any link to content.&#xA;Basic configuration Edit the website configuration config.toml and add a [[menu.shortcuts]] entry for each link your want to add.&#xA;Example from the current website:&#xA;[[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fab fa-github&#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;quot; identifier = &amp;quot;ds&amp;quot; url = &amp;quot;https://github.com/matcornic/hugo-theme-learn&amp;quot; weight = 10 [[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fas fa-camera&#39;&amp;gt;&amp;lt;/i&amp;gt; Showcases&amp;quot; url = &amp;quot;/showcase&amp;quot; weight = 11 [[menu.</description>
     </item>
     <item>
       <title>Style customization</title>
-      <link>http://10.11.11.20:1314/basics/style-customization/_index.en/</link>
+      <link>https://cn2tw.online/basics/style-customization/_index.en/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/basics/style-customization/_index.en/</guid>
+      <guid>https://cn2tw.online/basics/style-customization/_index.en/</guid>
       <description>Hugo-theme-learn has been built to be as configurable as possible by defining multiple partials&#xA;In themes/hugo-theme-learn/layouts/partials/, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead follow this page. You&amp;rsquo;d create a new partial in the layouts/partials folder of your local project. This partial will have the priority.&#xA;This theme defines the following partials :&#xA;header: the header of the content page (contains the breadcrumbs).</description>
     </item>
     <item>
       <title>Icons and logos</title>
-      <link>http://10.11.11.20:1314/cont/icons.en/</link>
+      <link>https://cn2tw.online/cont/icons.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/cont/icons.en/</guid>
+      <guid>https://cn2tw.online/cont/icons.en/</guid>
       <description>The Learn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.&#xA;Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.&#xA;Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
     </item>
     <item>
       <title>Multilingual and i18n</title>
-      <link>http://10.11.11.20:1314/cont/i18n/_index.en/</link>
+      <link>https://cn2tw.online/cont/i18n/_index.en/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
-      <guid>http://10.11.11.20:1314/cont/i18n/_index.en/</guid>
+      <guid>https://cn2tw.online/cont/i18n/_index.en/</guid>
       <description>Learn theme is fully compatible with Hugo multilingual mode.&#xA;It provides:&#xA;Translation strings for default values (English and French). Feel free to contribute ! Automatic menu generation from multilingual content In-browser language switching Basic configuration After learning how Hugo handle multilingual websites, define your languages in your config.toml file.&#xA;For example with current French and English website.&#xA;# English is the default language defaultContentLanguage = &amp;#34;en&amp;#34; # Force to have /en/my-page and /fr/my-page routes, even for default language.</description>
     </item>
     <item>
       <title>Tags</title>
-      <link>http://10.11.11.20:1314/cont/tags.en/</link>
+      <link>https://cn2tw.online/cont/tags.en/</link>
       <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
-      <guid>http://10.11.11.20:1314/cont/tags.en/</guid>
+      <guid>https://cn2tw.online/cont/tags.en/</guid>
       <description>Learn theme support one default taxonomy of gohugo: the tag feature.&#xA;Configuration Just add tags to any page:&#xA;--- date: 2018-11-29T08:41:44+01:00 title: Theme tutorial weight: 15 tags: [&amp;#34;tutorial&amp;#34;, &amp;#34;theme&amp;#34;] --- Behavior The tags are displayed at the top of the page, in their insertion order.&#xA;Each tag is a link to a Taxonomy page displaying all the articles with the given tag.&#xA;List all the tags In the config.toml file you can add a shortcut to display all the tags</description>
     </item>
     <item>
       <title>申請微信帳號</title>
-      <link>http://10.11.11.20:1314/04.tutor/wechat/wechat-apply/</link>
+      <link>https://cn2tw.online/04.tutor/wechat/wechat-apply/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/04.tutor/wechat/wechat-apply/</guid>
+      <guid>https://cn2tw.online/04.tutor/wechat/wechat-apply/</guid>
       <description>如何申請微信帳號（微信帳號申請小學生教程） 如果您申請時遇到問題，歡迎留言給灣灣。</description>
     </item>
     <item>
       <title>微信帳號常见问答</title>
-      <link>http://10.11.11.20:1314/04.tutor/wechat/wechat-faq/</link>
+      <link>https://cn2tw.online/04.tutor/wechat/wechat-faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/04.tutor/wechat/wechat-faq/</guid>
+      <guid>https://cn2tw.online/04.tutor/wechat/wechat-faq/</guid>
       <description>环境存在异常怎么回事？当出现异常时，往往伴随着号被封（或功能限制）的情况，而且莫名时有发生，今天我们来说说来龙去脉和其中的奥秘，在此跟大家分享一下。首先，什么是环境异常？所谓的环境是指登录时所依赖的所有介质，当出现环境异常时，建议先从根本原因解决问题之后，再去解风操作，以免再次出现造成恶性循环，那么，哪些情况会导致环境异常呢？&#xA;微信设备网络环境异常 一.机卡异常：&#xA;例如使用的是虚拟的卡，或绑定过不活跃的号及违规的号，或存在频繁创建以及换绑等风险行为，这种情况只要换个干净的号即可解决问题。&#xA;二.网络原因&#xA;同个网络地址下存在多号，而且昵称资料雷同，被系统判定风险环境。解决的方法是更换干净的网络，并减少登录的数量。&#xA;三.设备异常&#xA;例如同个设备中存在多号，或被封过多次的，及使用过多开，模拟器的，设备都可能被拉入黑名单，解决的方法很简单，换成常用的和正常的设备即可，那之前的设备怎么办呢？最好的建议是恢复出厂进行重置。&#xA;四.行为异常&#xA;刚创建后立刻频繁添加，频繁发布消息等行为造成。解决的方法是，切勿在短时间内频繁操作！并且多养号后再使用。&#xA;五.被封问题&#xA;环境异常造成的处罚多数是临时类型，可以根据系统的指引，完成自助辅助流程后即可恢复正常使用，如辅助的方式行不通，这个时候也选择其他的方式解决。也有少部分是永久的类型，正确的填写申诉信息，很多情况下还是有机会的。因环境异常不属于特别严重的问题。</description>
     </item>
     <item>
       <title>Attachments</title>
-      <link>http://10.11.11.20:1314/shortcodes/attachments.en/</link>
+      <link>https://cn2tw.online/shortcodes/attachments.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/attachments.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/attachments.en/</guid>
       <description>The Attachments shortcode displays a list of files attached to a page.&#xA;附件 BachGavotteShort.mp3 (357 KB) Carroll_AliceAuPaysDesMerveilles.pdf (175 KB) adivorciarsetoca00cape.pdf (361 KB) hugo.png (17 KB) movieselectricsheep-flock-244-32500-2.mp4 (340 KB) small_file.txt (48 B) Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages&#xA;If your page is a markdown file, attachements must be placed in a folder named like your page and ending with .files.</description>
     </item>
     <item>
       <title>Button</title>
-      <link>http://10.11.11.20:1314/shortcodes/button.en/</link>
+      <link>https://cn2tw.online/shortcodes/button.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/button.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/button.en/</guid>
       <description>A button is a just a clickable button with optional icon.&#xA;{{% button href=&amp;#34;https://getgrav.org/&amp;#34; %}}Get Grav{{% /button %}} {{% button href=&amp;#34;https://getgrav.org/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; %}}Get Grav with icon{{% /button %}} {{% button href=&amp;#34;https://getgrav.org/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; icon-position=&amp;#34;right&amp;#34; %}}Get Grav with icon right{{% /button %}} Get Grav Get Grav with icon Get Grav with icon right </description>
     </item>
     <item>
       <title>Children</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/_index.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/_index.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/_index.en/</guid>
       <description>Use the children shortcode to list the child pages of a page and the further descendants (children&amp;rsquo;s children). By default, the shortcode displays links to the child pages.&#xA;Usage Parameter Default Description page current Specify the page name (section name) to display children for style &amp;ldquo;li&amp;rdquo; Choose the style used to display descendants. It could be any HTML tag name showhidden &amp;ldquo;false&amp;rdquo; When true, child pages hidden from the menu will be displayed description &amp;ldquo;false&amp;rdquo; Allows you to include a short text under each page in the list.</description>
     </item>
     <item>
       <title>Credits</title>
-      <link>http://10.11.11.20:1314/credits/</link>
+      <link>https://cn2tw.online/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/credits/</guid>
+      <guid>https://cn2tw.online/credits/</guid>
       <description>Contributors Thanks to them for making Open Source Software a better place !&#xA;@matcornic 160 commits @matalo33 48 commits @coliff 19 commits @lierdakil 16 commits @mdavids 10 commits @ozobi 5 commits @Xipas 5 commits @Alan-Cha 4 commits @pdelaby 4 commits @helfper 4 commits @willwade 3 commits @dptelecom 3 commits @LinuxSuRen 3 commits @massimeddu 3 commits @mreithub 3 commits @Chris-Greaves 3 commits @JianLoong 2 commits @lfalin 2 commits @wikijm 2 commits @jice-lavocat 2 commits @jamesbooker 2 commits @ImgBotApp 2 commits @hucste 2 commits @denisvm 2 commits @diemol 2 commits @Oddly 1 commits @exKAZUu 1 commits @taiidani 1 commits @EnigmaCurry 1 commits @pocc 1 commits @HontoNoRoger 1 commits @razonyang 1 commits @stou 1 commits @ripienaar 1 commits @qiwenmin 1 commits @PierreAdam 1 commits @654wak654 1 commits @owulveryck 1 commits @nnja 1 commits @sandrogauci 1 commits @shelane 1 commits @mbbx6spp 1 commits @swenzel 1 commits @tedyoung 1 commits @Thiht 1 commits @editicalu 1 commits @fossabot 1 commits @kamar535 1 commits @mtbt03 1 commits @ngocbichdao 1 commits @nonumeros 1 commits @pgorod 1 commits @proelbtn 1 commits @armsnyder 1 commits @afilini 1 commits @MrAkaki 1 commits @AmirLavasani 1 commits @afs2015 1 commits @arifpedia 1 commits @berryp 1 commits @MrMoio 1 commits @ChrisLasar 1 commits @DCsunset 1 commits @IEvangelist 1 commits @fritzmg 1 commits @bogaertg 1 commits @geoffreybauduin 1 commits @giuliov 1 commits @haitch 1 commits @zeegin 1 commits @RealOrangeOne 1 commits @jared-stehler 1 commits @JohnBlood 1 commits @JohnAllen2tgt 1 commits @kamilchm 1 commits @gwleclerc 1 commits @lloydbenson 1 commits @lil5 1 commits @massimocireddu 1 commits @sykesm 1 commits @nvasudevan 1 commits And a special thanks to @vjeantet for his work on docdock, a fork of hugo-theme-learn.</description>
     </item>
     <item>
       <title>Expand</title>
-      <link>http://10.11.11.20:1314/shortcodes/expand.en/</link>
+      <link>https://cn2tw.online/shortcodes/expand.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/expand.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/expand.en/</guid>
       <description>The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example&#xA;展开 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title>Mermaid</title>
-      <link>http://10.11.11.20:1314/shortcodes/mermaid.en/</link>
+      <link>https://cn2tw.online/shortcodes/mermaid.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/mermaid.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/mermaid.en/</guid>
       <description>Mermaid is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.&#xA;Just insert your mermaid code in the mermaid shortcode and that&amp;rsquo;s it.&#xA;Flowchart example {{&amp;lt;mermaid align=&amp;quot;left&amp;quot;&amp;gt;}} graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] {{&amp;lt; /mermaid &amp;gt;}} renders as&#xA;graph LR; A[Hard edge] --&gt;|Link text| B(Round edge) B --&gt; C{Decision} C --&gt;|One| D[Result one] C --&gt;|Two| E[Result two] Sequence example {{&amp;lt; mermaid &amp;gt;}} sequenceDiagram participant Alice participant Bob Alice-&amp;gt;&amp;gt;John: Hello John, how are you?</description>
     </item>
     <item>
       <title>Notice</title>
-      <link>http://10.11.11.20:1314/shortcodes/notice.en/</link>
+      <link>https://cn2tw.online/shortcodes/notice.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/notice.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/notice.en/</guid>
       <description>The notice shortcode shows 4 types of disclaimers to help you structure your page.&#xA;Note {{% notice note %}} A notice disclaimer {{% /notice %}} renders as&#xA;A notice disclaimer&#xA;Info {{% notice info %}} An information disclaimer {{% /notice %}} renders as&#xA;An information disclaimer&#xA;Tip {{% notice tip %}} A tip disclaimer {{% /notice %}} renders as&#xA;A tip disclaimer&#xA;Warning {{% notice warning %}} A warning disclaimer {{% /notice %}} renders as</description>
     </item>
     <item>
       <title>page 1</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/children-1/_index.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/children-1/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/_index.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/children-1/_index.en/</guid>
       <description>This is a demo child page</description>
     </item>
     <item>
       <title>page 1-1</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/_index.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/children-1/children-1-1/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/_index.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/children-1/children-1-1/_index.en/</guid>
       <description>This is a demo child page</description>
     </item>
     <item>
       <title>page 1-1-1</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.en/</guid>
       <description>This is a demo child page</description>
     </item>
     <item>
       <title>page 1-1-1-1</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.en/</guid>
       <description>This is a demo child page</description>
     </item>
     <item>
       <title>page 1-1-1-1-1</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.en/</guid>
       <description>This is a demo child page</description>
     </item>
     <item>
       <title>page 2</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/children-2/_index.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/children-2/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/children-2/_index.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/children-2/_index.en/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title>page 3</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/children-3/_index.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/children-3/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/children-3/_index.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/children-3/_index.en/</guid>
       <description>This is a demo child page, not displayed in the menu</description>
     </item>
     <item>
       <title>page 4</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/children-4/_index.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/children-4/_index.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/children-4/_index.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/children-4/_index.en/</guid>
       <description>This is a demo child page, not displayed in the menu</description>
     </item>
     <item>
       <title>page test</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/test.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/test.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/test.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/test.en/</guid>
       <description>This is a test demo child page</description>
     </item>
     <item>
       <title>page test 3</title>
-      <link>http://10.11.11.20:1314/shortcodes/children/children-2/test3.en/</link>
+      <link>https://cn2tw.online/shortcodes/children/children-2/test3.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/children/children-2/test3.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/children/children-2/test3.en/</guid>
       <description>This is a test 3 demo child page</description>
     </item>
     <item>
       <title>Showcase</title>
-      <link>http://10.11.11.20:1314/showcase/</link>
+      <link>https://cn2tw.online/showcase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/showcase/</guid>
+      <guid>https://cn2tw.online/showcase/</guid>
       <description>TAT by OVH Tshark.dev by Ross Jacobs inteliver by Amir Lavasani </description>
     </item>
     <item>
       <title>Site param</title>
-      <link>http://10.11.11.20:1314/shortcodes/siteparam.en/</link>
+      <link>https://cn2tw.online/shortcodes/siteparam.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/siteparam.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/siteparam.en/</guid>
       <description>siteparam shortcode is used to help you print values of site params.&#xA;For instance, in this current site, the editURL variable is used in config.toml&#xA;[params] editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34; Use the siteparam shortcode to display its value.&#xA;`editURL` Value : {{% siteparam &amp;#34;editURL&amp;#34; %}} is displayed as&#xA;editURL Value :</description>
     </item>
     <item>
       <title>Tabbed views</title>
-      <link>http://10.11.11.20:1314/shortcodes/tabs.en/</link>
+      <link>https://cn2tw.online/shortcodes/tabs.en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://10.11.11.20:1314/shortcodes/tabs.en/</guid>
+      <guid>https://cn2tw.online/shortcodes/tabs.en/</guid>
       <description>Choose which content to see across the page. Very handy for providing code snippets for multiple languages or providing configuration in different formats.&#xA;Code example {{&amp;lt; tabs &amp;gt;}} {{% tab name=&amp;quot;python&amp;quot; %}} ```python print(&amp;quot;Hello World!&amp;quot;) ``` {{% /tab %}} {{% tab name=&amp;quot;R&amp;quot; %}} ```R &amp;gt; print(&amp;quot;Hello World!&amp;quot;) ``` {{% /tab %}} {{% tab name=&amp;quot;Bash&amp;quot; %}} ```Bash echo &amp;quot;Hello World!&amp;quot; ``` {{% /tab %}} {{&amp;lt; /tabs &amp;gt;}} Renders as:&#xA;python R Bash print(&amp;#34;Hello World!</description>
     </item>
   </channel>
