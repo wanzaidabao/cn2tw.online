@@ -1,9 +1,11 @@
 name: Notify Telegram on GitHub Pages Deployment
 
 on:
-  push:
-    branches:
-      - master  # 或者你使用的其他分支
+  workflow_run:
+    workflows: ["pages build and deployment"]
+    types:
+      - completed
+
 jobs:
   notify:
     runs-on: ubuntu-latest
