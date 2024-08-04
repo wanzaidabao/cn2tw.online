@@ -3,7 +3,7 @@ name: Deploy and Notify
 on:
   push:
     branches:
-      - gh-pages
+      - master
 
 jobs:
   deploy-and-notify:
