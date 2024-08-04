@@ -1,28 +1,17 @@
-name: GitHub Pages Deployment
+name: Notify Telegram on GitHub Pages Deployment
 
 on:
-  push:
-    branches:
-      - master  # 或者你使用的其他分支
+  deployment_status:
+    types: [success]
 
 jobs:
-  deploy:
+  notify:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Build and Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: /  # 你构建的静态文件目录，默认是public，我使用的是/
-
     - name: Send Telegram Notification
-      if: success()
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
-        curl -s -X POST https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage -d chat_id=${TELEGRAM_CHAT_ID} -d text="🚀 Deployment to GitHub Pages completed successfully!"
+        curl -s -X POST https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage -d chat_id=${TELEGRAM_CHAT_ID} -d text="🚀 GitHub Pages deployment completed successfully!"
