@@ -1,0 +1,50 @@
+name: Deploy and Notify
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy-and-notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Wait for GitHub Pages to deploy
+        id: wait-for-deployment
+        run: |
+          # 等待部署完成,最多等待5分钟
+          for i in {1..30}; do
+            status=$(curl -s -o /dev/null -w "%{http_code}" ${{ github.event.repository.html_url }})
+            if [ $status -eq 200 ]; then
+              echo "Deployment successful!"
+              echo "deployment_success=true" >> $GITHUB_OUTPUT
+              break
+            fi
+            echo "Waiting for deployment to complete..."
+            sleep 10
+          done
+          if [ $i -eq 30 ]; then
+            echo "Deployment timed out or failed"
+            echo "deployment_success=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send Telegram Notification
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ "${{ steps.wait-for-deployment.outputs.deployment_success }}" == "true" ]; then
+            status="成功 ✅"
+            emoji="🎉"
+          else
+            status="失败 ❌"
+            emoji="⚠️"
+          fi
+          message="<b>GitHub Pages 部署${status}! ${emoji}</b>%0A%0A<b>仓库:</b> ${{ github.repository }}%0A<b>访问地址:</b> ${{ github.event.repository.html_url }}%0A<b>提交:</b> ${{ github.sha }}"
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+               -d "chat_id=${TELEGRAM_CHAT_ID}" \
+               -d "text=${message}" \
+               -d "parse_mode=HTML"
